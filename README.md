@@ -1,7 +1,10 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3 
+## A Jornada da IA: Um Passeio pelo Futuro 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book de 35 páginas explora o uso de IA atreleda a uma linguagem de programação para este e-book foi escolhida a linguagem Java.Muito se fala de IA, vemos e ouvimos muita teoria sobre IA. Neste e-book quero mostrar um pouco de como de fato se faz uso da mesma no dia a dia de um desenvolvedor de Software em Java.
+ Claro que é um tema vasto, me limitei a dar uma idéia de aplicabilidade.
+
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
