@@ -38,7 +38,8 @@ O e-book apresenta um conteúdo útil que mostra a apliabilidade da IA para o de
 - E-Book gerado em `output`
 - PPT gerado em `output`
 
-[LINK PARA O E-BOOK AQUI]()
+<a href="https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Nexa-Fundamentos-de-IA-Generativa-e-Claude-3-O-uso-de-IA-em-Java/blob/main/output/IA%20-%20Ofuturo%20est%C3%A1%20aqui!.pdf" title="E-Book-Java"> :notebook: Clique aqui para ler</a>
+<br>
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
