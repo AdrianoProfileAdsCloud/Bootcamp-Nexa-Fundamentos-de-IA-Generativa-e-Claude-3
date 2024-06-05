@@ -22,7 +22,7 @@ O e-book apresenta um conteúdo útil que mostra a apliabilidade da IA para o de
 >ChatGPT/Copilot：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |    |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | conteúdo | crie um e-book focado em IA .Contendo todos seus avanços e implementações para o dia a dia de um desenvolvedor de software.
 |Regras    |>>>linguagem:java >>>Traga principais pontos importates >>>Sempre traga exemplos de código em contextos reais de uso >>>Sempre deixe um título sugestivo por tópico |
 
