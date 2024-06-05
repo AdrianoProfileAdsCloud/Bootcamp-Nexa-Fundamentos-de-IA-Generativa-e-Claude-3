@@ -1,9 +1,9 @@
-# Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3 
+# Bootcamp Dio - Nexa - Fundamentos de IA Generativa e Claude 3 
 ## A Jornada da IA: Um Passeio pelo Futuro 🌌
 
 ## 📒 Descrição
-Este e-book de 35 páginas explora o uso de IA atreleda a uma linguagem de programação para este e-book foi escolhida a linguagem Java.Muito se fala de IA, vemos e ouvimos muita teoria sobre IA. Neste e-book quero mostrar um pouco de como de fato se faz uso da mesma no dia a dia de um desenvolvedor de Software em Java.
- Claro que é um tema vasto, me limitei a dar uma bree idéia de aplicabilidade de IA.
+Este e-book de 35 páginas explora o uso de IA atrelada a uma linguagem de programação, para este e-book foi escolhida a linguagem Java. Muito se fala de IA, vemos e ouvimos muita teoria sobre IA. Neste e-book quero mostrar um pouco de como de fato se faz uso da mesma no dia a dia de um desenvolvedor de software em Java.
+ Claro que é um tema vasto, me limitei a dar uma breve ideia de aplicabilidade de IA.
 
 
 ## 🤖 Tecnologias Utilizadas
@@ -12,7 +12,7 @@ Este e-book de 35 páginas explora o uso de IA atreleda a uma linguagem de progr
 ![Copilot](https://adoption.microsoft.com/wp-content/uploads/2023/09/icon-copilot.svg)
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre Inteligencia Aritificial, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Copilot" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Power Point, por ser de uso simples e de conhecimento de todos.
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre inteligência Artificial, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Copilot" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Power Point, por ser de uso simples e de conhecimento de todos.
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo útil que mostra a apliabilidade da IA para o desenvolvimento de Softwares, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
@@ -23,18 +23,18 @@ O e-book apresenta um conteúdo útil que mostra a apliabilidade da IA para o de
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Imagens  | crie uma imagem que representa a IA como uma pessa ficticia.
-| Conteúdo | crie um e-book focado em IA .Contendo todos seus avanços e implementações para o dia a dia de um desenvolvedor de software.
-|Regras    |>>>linguagem:java >>>Principais serviços >>>Onde encontrar esses serviços >>>Exemplos de como aplicar esses serviços |
+| Imagens  | Crie uma imagem que representa a IA como uma pessoa fictícia.
+| Conteúdo | Crie um e-book focado em IA . Contendo todos seus avanços e implementações para o dia a dia de um desenvolvedor de software.
+|Regras    |>>>linguagem:java >>>Principais serviços >>>Onde encontrar esses serviços >>>Exemplos de aplicabilidade desses serviços |
 
 ## :open_book: Características
 
-- Conteúdo gerado via prompt ChatGPT 
-- Imagens geradas via Copilot/Designer
+- Conteúdo gerado via prompt ChatGPT.
+- Imagens geradas via Copilot/Designer.
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
+- Imagens geradas(Copilot/Designer) em `assets`
 - E-Book gerado em `output`
 - PPT gerado em `output`
 
@@ -42,4 +42,5 @@ O e-book apresenta um conteúdo útil que mostra a apliabilidade da IA para o de
 <br>
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos. Sem dúvida, vai potencializar a produtividade em todas as áreas, já que seu uso é válido para todos os setores possíveis. O aprendizado, como aprenderemos, com certeza já está evoluindo e evoluirá muito mais! Realmente é um poder ilimitado seu uso!
+Cabe a cada um de nós usar da melhor maneira possível, com responsabilidade e ética acima de tudo!
