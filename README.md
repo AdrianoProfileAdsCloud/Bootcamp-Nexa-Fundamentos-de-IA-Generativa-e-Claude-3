@@ -3,7 +3,7 @@
 
 ## 📒 Descrição
 Este e-book de 35 páginas explora o uso de IA atreleda a uma linguagem de programação para este e-book foi escolhida a linguagem Java.Muito se fala de IA, vemos e ouvimos muita teoria sobre IA. Neste e-book quero mostrar um pouco de como de fato se faz uso da mesma no dia a dia de um desenvolvedor de Software em Java.
- Claro que é um tema vasto, me limitei a dar uma idéia de aplicabilidade.
+ Claro que é um tema vasto, me limitei a dar uma bree idéia de aplicabilidade de IA.
 
 
 ## 🤖 Tecnologias Utilizadas
