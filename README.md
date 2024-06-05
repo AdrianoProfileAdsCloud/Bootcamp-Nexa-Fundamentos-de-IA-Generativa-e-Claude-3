@@ -7,9 +7,9 @@ Este e-book de 35 páginas explora o uso de IA atreleda a uma linguagem de progr
 
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Copilot](https://copilot.microsoft.com/)** para criar a arte visual do e-book;
-- Ferramenta **Microsoft Power Point** para edição.
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white(https://chat.openai.com/))
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white(https://www.microsoft.com/en/microsoft-365/powerpoint))
+![Copilot](https://adoption.microsoft.com/wp-content/uploads/2023/09/icon-copilot.svg)
 
 ## 🧐 Processo de Criação
 Utilizei o "ChatGPT" para revisar minha pesquisa sobre Inteligencia Aritificial, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Copilot" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Power Point, por ser de uso simples e de conhecimento de todos.
