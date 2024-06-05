@@ -23,8 +23,9 @@ O e-book apresenta um conteúdo útil que mostra a apliabilidade da IA para o de
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| conteúdo | crie um e-book focado em IA .Contendo todos seus avanços e implementações para o dia a dia de um desenvolvedor de software.
-|Regras    |>>>linguagem:java >>>Traga principais pontos importates >>>Sempre traga exemplos de código em contextos reais de uso >>>Sempre deixe um título sugestivo por tópico |
+| Imagens  | crie uma imagem que representa a IA como uma pessa ficticia.
+| Conteúdo | crie um e-book focado em IA .Contendo todos seus avanços e implementações para o dia a dia de um desenvolvedor de software.
+|Regras    |>>>linguagem:java >>>Principais serviços >>>Onde encontrar esses serviços >>>Exemplos de como aplicar esses serviços |
 
 [LINK PARA O E-BOOK AQUI]()
 
