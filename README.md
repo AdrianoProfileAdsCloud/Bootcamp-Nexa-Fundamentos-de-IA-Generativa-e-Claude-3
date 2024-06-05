@@ -27,6 +27,17 @@ O e-book apresenta um conteúdo útil que mostra a apliabilidade da IA para o de
 | Conteúdo | crie um e-book focado em IA .Contendo todos seus avanços e implementações para o dia a dia de um desenvolvedor de software.
 |Regras    |>>>linguagem:java >>>Principais serviços >>>Onde encontrar esses serviços >>>Exemplos de como aplicar esses serviços |
 
+## :open_book: Características
+
+- Conteúdo gerado via prompt ChatGPT 
+- Imagens geradas via Copilot/Designer
+
+## 📚 Materiais
+
+- Imagens utilizadas em `assets`
+- E-Book gerado em `output`
+- PPT gerado em `output`
+
 [LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão
