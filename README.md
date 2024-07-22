@@ -1,4 +1,4 @@
-# Bootcamp Dio - Nexa - Fundamentos de IA Generativa e Claude 3 
+# Bootcamp Dio - Nexa - Fundamentos de IA Generativa e Claude 3 - Aplicando em Java
 ## A Jornada da IA: Um Passeio pelo Futuro 🌌
 
 ## 📒 Descrição
